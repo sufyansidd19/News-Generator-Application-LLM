@@ -109,7 +109,7 @@ Place your screenshot at `./assets/app_screenshot.png` or update the image path 
 
 ## 🛡️ License
 
-MIT License
+Apache-2.0
 
 ---
 
@@ -119,4 +119,5 @@ Thanks to:
 - [Groq](https://groq.com/) for lightning-fast inference API
 - [LangChain](https://www.langchain.com/) for the QA framework
 - [Streamlit](https://streamlit.io/) for easy deployment and UI
+
 
