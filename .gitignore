@@ -1,0 +1,22 @@
+# Virtual environment
+News/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Secret and config files
+.env
+
+# Jupyter checkpoints
+*.ipynb_checkpoints/
+
+# FAISS/Vector index
+vector_index.pkl
+
+# Streamlit logs
+.streamlit/
+
+# OS-generated
+.DS_Store
+Thumbs.db
