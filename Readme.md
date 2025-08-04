@@ -1,6 +1,6 @@
 # 📰 News Generator Application using LLMs (Groq + LangChain + Streamlit)
 
-![Streamlit App Screenshot](./cover.png) <!-- Replace with your actual screenshot path -->
+![Streamlit App Screenshot](./) <!-- Replace with your actual screenshot path -->
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://news-generator-app.streamlit.app) <!-- Replace with your Streamlit app URL -->
 
@@ -119,6 +119,7 @@ Thanks to:
 - [Groq](https://groq.com/) for lightning-fast inference API
 - [LangChain](https://www.langchain.com/) for the QA framework
 - [Streamlit](https://streamlit.io/) for easy deployment and UI
+
 
 
 
