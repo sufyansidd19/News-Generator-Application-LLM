@@ -2,7 +2,7 @@
 
 ![Streamlit App Screenshot](./cover.png) <!-- Replace with your actual screenshot path -->
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://news-generator-app.streamlit.app](https://news-generator-application-llm.streamlit.app/) <!-- Replace with your Streamlit app URL -->
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://news-generator-app.streamlit.app](https://news-generator-application-llm.streamlit.app/]) <!-- Replace with your Streamlit app URL -->
 
 ---
 
