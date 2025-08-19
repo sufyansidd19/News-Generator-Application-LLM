@@ -2,8 +2,7 @@
 
 ![Streamlit App Screenshot](./cover.png) <!-- Replace with your actual screenshot path -->
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://news-generator-app.streamlit.app](https://news-generator-application-llm.streamlit.app/]) <!-- Replace with your Streamlit app URL -->
-
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://news-generator-application-llm.streamlit.app/) <!-- Replace with your Streamlit app URL -->
 ---
 
 ## 🔍 Overview
@@ -119,6 +118,7 @@ Thanks to:
 - [Groq](https://groq.com/) for lightning-fast inference API
 - [LangChain](https://www.langchain.com/) for the QA framework
 - [Streamlit](https://streamlit.io/) for easy deployment and UI
+
 
 
 
